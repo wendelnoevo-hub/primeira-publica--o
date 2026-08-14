@@ -11,3 +11,4 @@
 </lu>
 
 <img src="https://github.com/wendelnoevo-hub/primeira-publica--o/blob/main/easy%20pc.png?raw=true"/>
+<img src="https://github.com/wendelnoevo-hub/primeira-publica--o/blob/main/easy%20cel.png?raw=true"/>
